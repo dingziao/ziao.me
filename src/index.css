@@ -1,13 +1,14 @@
-html {
-  height: 100%;
-  margin: 0;
-  display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300&family=Roboto:wght@500&display=swap");
+@import "./data/styles.css";
+
+body {
+	margin: 0;
+	font-family: var(--primary-font);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
-p {
-  text-align: center;
-  font-size:xx-large;
-  font-family: consolas, monospace;
-  font-weight: bold;
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
 }
