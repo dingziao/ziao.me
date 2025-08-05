@@ -3,7 +3,7 @@ const INFO = {
 		title: "ziao",
 		name: "Ziao DING",
 		email: "ziao.ding.gr@dartmouth.edu",
-		logo: "../logo.jpg",
+		logo: "./logo.jpg",
 	},
 
 	socials: {
@@ -16,12 +16,13 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hi DALI👋, I’m Ziao from Wuhan 🇨🇳. Currently studying at NH 🇺🇸.",
+		title: "[DEPRECATED] Hi, I'm Ziao from Wuhan. Currently studying at NH.",
 		description:
 		[
 			"I enjoy and am willing to learn any work related to vision and design. At present, my work experience is mainly in Web development, but I believe that my energy should not be limited to Web. I hope to be exposed to works in Mobile, VR/AR, UI/UX, etc. to explore more possibility of my career path.",
-			"Coming to the United States to study in 2023 is actually my first time be out of home country🌏. Hopefully there will be more opportunities to explore different places and cultures in the future🥰. World Map Below ⬇️",
-			"",
+			"------",
+			"This is a deprecated personal page. In memorial of the old days when I arrive in the US for the first time. 😆",
+			"Also in memorial of the days when there's no GenAI for coding...",
 		]
 	},
 

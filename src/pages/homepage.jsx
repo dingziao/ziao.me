@@ -103,6 +103,12 @@ const Homepage = () => {
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description[1]}
 								</div>
+								<div className="subtitle homepage-subtitle">
+									{INFO.homepage.description[2]}
+								</div>
+								<div className="subtitle homepage-subtitle">
+									{INFO.homepage.description[3]}
+								</div>
 							</div>
 
 							<div className="homepage-first-area-right-side">
